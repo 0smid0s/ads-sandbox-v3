@@ -1,0 +1,5 @@
+playwright==1.44.0
+requests
+requests[socks]
+faker
+xvfbwrapper
